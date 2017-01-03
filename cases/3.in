@@ -1,0 +1,5 @@
+{
+  "function": "testdoc",
+  "test": "(doctests) lab.py",
+  "args": ["lab"]
+}

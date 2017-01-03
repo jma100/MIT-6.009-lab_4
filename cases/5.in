@@ -1,0 +1,1 @@
+{"args": [10, 8, [[7, 3], [2, 6], [8, 7], [4, 4], [3, 5], [4, 6], [6, 2], [9, 4], [4, 2], [4, 0], [8, 6], [9, 7], [8, 5], [5, 0], [7, 2], [5, 3]]], "function": "new_game", "test": "(unit tests) 'new_game' on a small 2-dimensional board"}

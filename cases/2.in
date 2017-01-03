@@ -1,0 +1,5 @@
+{
+  "function": "checkdoc",
+  "test": "Do all functions in lab.py have doctests?",
+  "args": ["doctests"]
+}
